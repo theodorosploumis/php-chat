@@ -1,6 +1,8 @@
 Instant php chat
 ------------------------------
 
+![php chat screenshot](php_chat.png)
+
 ### About
 
 This is a very simple php chat running with php.
