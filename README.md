@@ -11,7 +11,7 @@ This is a very simple php chat running with php.
 
 ### Install
 
-Just clone this repo to your ```www``` folder and go to ```wwww/app/``` path.
+Just clone this repo to your ```www``` folder and visit ```www/app/``` path.
 
 This app not for production, use with care!
 
