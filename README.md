@@ -11,10 +11,10 @@ This is a very simple php chat running with php.
 
 ### Install
 
-Just clone this repo and go to ```app/``` path.
+Just clone this repo to your ```www``` folder and go to ```wwww/app/``` path.
 
 This app not for production, use with care!
 
 ### License
 
-GPL v2, see [LICENCE](LICENCE).
+GPL v2, see [LICENSE](LICENSE).
