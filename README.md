@@ -1,7 +1,7 @@
 Instant php chat
 ------------------------------
 
-![php chat screenshot](php_chat.png)
+![php chat screenshot](https://github.com/theodorosploumis/php-chat/blob/master/php_chat.png)
 
 ### About
 
@@ -13,13 +13,21 @@ This is a very simple php chat running with php.
 
 ### Install
 
-Just clone this repo to your ```www``` folder and visit ```www/app/``` path.
+You need **php** of course.
 
-This app not for production, use with care!
+Here is an example using the php built in server:
+
+```
+git clone git@github.com:theodorosploumis/php-chat.git
+cd theodorosploumis/php-chat/app
+php -S localhost:8000
+
+// Open http://localhost:8000
+```
 
 ### Using docker
 
-Ther is an image on docker hub: [tplcom/php-chat](https://hub.docker.com/r/tplcom/php-chat)
+There is an image on docker hub: [tplcom/php-chat](https://hub.docker.com/r/tplcom/php-chat)
 
 ```
 docker pull tplcom/php-chat
@@ -27,6 +35,17 @@ docker run -tid -p 8088:80 tplcom/php-chat
 // Open localhost:8088
 ```
 
+Or using docker-compose
+
+```
+git clone git@github.com:theodorosploumis/php-chat.git
+cd theodorosploumis/php-chat
+
+docker-compose up -d
+```
+
 ### License
 
-GPL v2, see [LICENSE](LICENSE).
+IMPORTANT. This app is not for production. In any case see the LICENSE.
+
+GNU GPL v2, see [LICENSE](https://github.com/theodorosploumis/php-chat/blob/master/LICENSE).
