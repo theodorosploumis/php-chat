@@ -1,7 +1,7 @@
 Instant php chat
 ------------------------------
 
-![php chat screenshot](https://github.com/theodorosploumis/php-chat/blob/master/php_chat.png)
+![php chat screenshot](https://raw.githubusercontent.com/theodorosploumis/php-chat/master/php_chat.png)
 
 ### About
 
