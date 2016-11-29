@@ -1,4 +1,4 @@
-FROM php:7.0.6-apache
+FROM php:7.0.13-apache
 
 MAINTAINER Theodoros Ploumis <me@theodorosploumis.com>
 
