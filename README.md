@@ -19,7 +19,7 @@ Here is an example using the php built in server:
 
 ```
 git clone git@github.com:theodorosploumis/php-chat.git
-cd theodorosploumis/php-chat/app
+cd php-chat/app
 php -S localhost:8000
 
 // Open http://localhost:8000
@@ -39,13 +39,13 @@ Or using docker-compose
 
 ```
 git clone git@github.com:theodorosploumis/php-chat.git
-cd theodorosploumis/php-chat
+cd php-chat
 
 docker-compose up -d
 ```
 
 ### License
 
-IMPORTANT. This app is not for production. In any case see the LICENSE.
+IMPORTANT. This app may not be suitable for production. In any case see the LICENSE.
 
 GNU GPL v2, see [LICENSE](https://github.com/theodorosploumis/php-chat/blob/master/LICENSE).
